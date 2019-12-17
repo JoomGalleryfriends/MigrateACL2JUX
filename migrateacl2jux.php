@@ -2,7 +2,7 @@
 /******************************************************************************\
 **   JoomGallery Migration Script ACL2JUX 3.0                                 **
 **   By: JoomGallery::ProjectTeam                                             **
-**   Copyright (C) 2014 - 2015 JoomGallery::ProjectTeam                       **
+**   Copyright (C) 2014 - 2019 JoomGallery::ProjectTeam                       **
 **   Released under GNU GPL Public License                                    **
 **   License: http://www.gnu.org/copyleft/gpl.html or have a look             **
 **   at administrator/components/com_joomgallery/LICENSE.TXT                  **
